@@ -12,3 +12,20 @@
 - 使用log4j进行开发的日志信息查看
 
 - 整个业务流程采用javaBean->Dao->service->conroller的顺序进行开发
+
+#### java源代码包结构
+  - pojo 实体类
+  - mapper Mapper类
+  - interceptor 拦截器
+  - controller 控制层
+  - service Service层
+  - test 测试类
+  - util 工具类
+  - comparator 比较类
+#### web目录
+  - css css文件
+  - img 图片资源
+  - js js文件
+  - admin 后台管理用到的jsp文件
+  - fore 前台展示用到的jsp文件
+  - include 被包含的jsp文件
