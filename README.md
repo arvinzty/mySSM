@@ -1,6 +1,6 @@
 # mySSM
 ## SSM怎合的后台订单项目
-#### *本项目采用tomcat作为服务器，mysql作为数据端，eclipase作为开发集成环境，SSM等整合技术开发*
+#### *本项目采用tomcat作为服务器，mysql作为数据端，jsp来作页面展示，eclipase作为开发集成环境，SSM等整合技术开发*
 - 把mybatis怎合到spring中来进行管理
   - 这个项目涉及了9张关联表
   - 用mybatis的逆向生成工程生成的sql语句XML已经能满足需要的业务
